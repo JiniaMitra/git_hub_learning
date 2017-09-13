@@ -1,0 +1,4 @@
+class NotEnoughBalanceException extends Throwable
+{
+	
+}
